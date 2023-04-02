@@ -2,7 +2,6 @@ import { estudiantesRegistrados, nuevoEstudiante, estudiante, editarEstudiante, 
 
 
 let parametros = process.argv.splice(2)
-
 let funcion = parametros[0]
 let datos = parametros.splice(1)
 
